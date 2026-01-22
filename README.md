@@ -53,9 +53,11 @@ src/
 ├── App.jsx
 └── main.jsx
 
+```
 ---
 
-🚀 Getting Started
+
+##🚀 Getting Started
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/mr-builders-website.git
 
@@ -64,8 +66,9 @@ npm install
 
 3️⃣ Run Development Server
 npm run dev
+---
 
-👤 Author
+#👤 Author
 
 Karthicka
 Frontend Developer | Computer Science Student
