@@ -60,7 +60,7 @@ src/
 ## 🚀 Getting Started
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/mr-builders-website.git
+git clone https://github.com/Karthickasenthilnathan/mr-builders-website.git
 
 2️⃣ Install Dependencies
 npm install
@@ -106,7 +106,3 @@ The MR Builders website is a **single-page application (SPA)** built to represen
 - Props are passed down to Navbar, Footer, and pages to trigger modals.
 
 ---
-
-## 🧩 State Management
-
-```
